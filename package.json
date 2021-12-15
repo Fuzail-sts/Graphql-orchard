@@ -1,0 +1,19 @@
+{
+  "name": "GraphqlServer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^3.5.0",
+    "graphql": "^16.1.0",
+    "mssql": "^7.3.0",
+    "mssql2": "^3.3.1",
+    "mysql2": "^2.3.3",
+    "sequelize": "^6.12.0-beta.3",
+    "sequelize-auto": "^0.8.8",
+    "sequelize-cli": "^6.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}
